@@ -1,0 +1,6 @@
+pandas==2.0.2
+streamlit==1.19.0
+plotly==5.14.1
+seaborn==0.12.2
+matplotlib==3.8.0
+networkx==3.0
